@@ -68,7 +68,7 @@ Para instalar a dependencia do projeto use:
 pip install pillow
 ```
 
-Inicie o projeto com(certifique-se que está dentro da pasta Sininho-Baby):
+Inicie o projeto com(certifique-se que está dentro da pasta Pokedex):
 
 ```bash
 python pokedex.py
